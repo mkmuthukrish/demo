@@ -1,0 +1,48 @@
+.h{
+    text-align: center;
+    color: aliceblue;
+    border:10px solid black;
+}
+img{
+    width: 200px;
+    height: 300px;
+}
+#star{
+    border: 30px solid gold;
+    padding: 50px;
+}
+a{
+    font-size: 30px;
+    padding-left: 30px;
+    color: blanchedalmond;
+
+}
+.movie{
+    color:aliceblue;
+    text-align: center;
+    border: 30px solid gold;
+}
+#movies{
+    background-color:#1B1A17;
+}
+.tr{
+  padding-left: 500px;
+}
+#bg{
+    background-color:#481E14;
+}
+#al{
+    color: blue;
+}
+h2{
+    color: blanchedalmond;
+}
+p{
+    font-size: 20px;
+    color: blanchedalmond;
+}
+#aavesham{
+        border: 30px solid gold;
+        padding-left: 800px;
+}
+
